@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap04_control_flow.level03.hard;
+package com.ohgiraffers.chap04_control_flow.section01.conditional.level03.hard;
 
 import java.util.Scanner;
 

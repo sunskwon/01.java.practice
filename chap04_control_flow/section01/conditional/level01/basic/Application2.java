@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap04_control_flow.level01.basic;
+package com.ohgiraffers.chap04_control_flow.section01.conditional.level01.basic;
 
 import java.util.Scanner;
 
