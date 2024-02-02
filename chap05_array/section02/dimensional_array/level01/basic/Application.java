@@ -24,7 +24,7 @@ public class Application {
 
             for (j = 0; j < arr[i].length; j++) {
 
-                arr[i][j] = (i * 4 + j + 1);
+                arr[i][j] = (i * arr[i].length + j + 1);
             }
         }
 
