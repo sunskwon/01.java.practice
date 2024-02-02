@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap05_array.section01.dimensional_array.level01.basic;
+package com.ohgiraffers.chap05_array.section02.dimensional_array.level01.basic;
 
 public class Application {
 
