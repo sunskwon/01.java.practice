@@ -13,6 +13,14 @@ public class Application {
         MemberVO member = new MemberVO();
         member.printBefore();
 
+        System.out.println("id : " + member.getId());
+        System.out.println("pwd : " + member.getPwd());
+        System.out.println("name : " + member.getName());
+        System.out.println("age : " + member.getAge());
+        System.out.println("gender : " + member.getGender());
+        System.out.println("phone : " + member.getPhone());
+        System.out.println("email : " + member.getEmail());
+
         member.setId("user01");
         member.setPwd("pass01");
         member.setName("홍길동");
